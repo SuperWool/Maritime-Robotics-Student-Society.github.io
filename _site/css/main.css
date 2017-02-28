@@ -33,7 +33,7 @@ h6 {
 p {
   font-size: 16px;
   line-height: 1.5;
-  margin-bottom: 20px; }
+  padding-bottom: 20px; }
 
 .bg-primary {
   background-color: #F05F40; }
@@ -300,3 +300,11 @@ img::-moz-selection {
 
 body {
   -webkit-tap-highlight-color: #222; }
+
+header .header-content-sailing-robot-main {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+.navbar-nav-blog {
+  background-color: rbga(1, 0, 0, 1); }
